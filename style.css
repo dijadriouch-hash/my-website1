@@ -81,10 +81,8 @@ img:hover{
         height:250px;
      }
     .nav {
-        display:flex;
-        flex-direction:column;
-        right:10 px;
-        top:50 px;
+        text-align:center;
+        padding:10 px;
  }
  input{
     width:30%;
