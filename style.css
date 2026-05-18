@@ -85,6 +85,7 @@ img:hover{
         display:flex;
         flex-direction:column;
         align-content:center;
+        padding:20 px;
  }
  input{
     width:30%;
