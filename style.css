@@ -88,9 +88,9 @@ img:hover{
         padding:10 px;
 }
     .nav .el{
-    display:block;
+    display:inline-block;
     font-size:8px;
-    margin:10px;
+    margin:0px;
             
 }
  }
