@@ -82,7 +82,9 @@ img:hover{
      }
     .nav {
         text-align:center;
-        padding:10 px;
+        display:flex;
+        flex-direction:column;
+        align-content:center;
  }
  input{
     width:30%;
