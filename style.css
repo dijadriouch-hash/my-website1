@@ -83,7 +83,8 @@ img:hover{
     .nav {
         display:flex;
         flex-direction:column;
-        width:150 px ;
+        right:10 px;
+        top:50 px;
  }
  input{
     width:30%;
