@@ -80,7 +80,7 @@ img:hover{
     img{
         height:250px;
      }
-    .nav .el{
+    .nav {
         display:flex;
         flex-direction:column;
         width:150 px ;
