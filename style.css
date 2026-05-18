@@ -85,11 +85,11 @@ img:hover{
         display:flex;
         flex-direction:column;
         align-content:center;
-        padding:15 px;
+        padding:10 px;
 }
     .nav .el{
     display:block;
-    font-size:12px;
+    font-size:8px;
     margin:10px;
             
 }
