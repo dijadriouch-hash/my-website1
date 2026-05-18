@@ -87,8 +87,8 @@ img:hover{
         align-content:center;
         padding:15 px;
 }
-        .nav .el{
-    display:Inline;
+    .nav .el{
+    display:block;
     font-size:12px;
     margin:10px;
             
