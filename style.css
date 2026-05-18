@@ -80,6 +80,10 @@ img:hover{
     img{
         height:250px;
      }
+    .nav{
+        display:none;
+        flex-direction:column;
+        width:150 px ;
  }
  input{
     width:30%;
