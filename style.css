@@ -81,7 +81,7 @@ img:hover{
         height:250px;
      }
     .nav .el{
-        display:none;
+        display:flex;
         flex-direction:column;
         width:150 px ;
  }
