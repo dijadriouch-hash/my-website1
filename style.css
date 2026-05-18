@@ -90,12 +90,12 @@ img:hover{
 }
     .nav .el{
     display:inline-block;
-    font-size:8px;
+    font-size:18px;
     margin:0px;
             
 }
     .nav a{
-        font-size:10 px;
+        font-size:18 px;
  }
  input{
     width:30%;
