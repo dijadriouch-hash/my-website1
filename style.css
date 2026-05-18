@@ -33,6 +33,7 @@ nav ul li a{
     font-size:20px;
     margin:40px;
 }
+
 footer{
     color:black;
     background-color:lightgray;
@@ -93,6 +94,8 @@ img:hover{
     margin:0px;
             
 }
+    nav a{
+        font-size:15 px;
  }
  input{
     width:30%;
