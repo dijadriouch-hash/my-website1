@@ -86,6 +86,13 @@ img:hover{
         flex-direction:column;
         align-content:center;
         padding:20 px;
+}
+        .nav .el{
+    display:Inline;
+    font-size:15px;
+    margin:20px;
+            
+}
  }
  input{
     width:30%;
